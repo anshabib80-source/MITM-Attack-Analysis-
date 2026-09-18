@@ -54,6 +54,7 @@ The following screenshot shows the use of the `dns.flags.response==1 && ip.src !
 
 ![DNS Response Filter](./DNS-Spoofing-Detection.png)
 
+---
 ## 7. Key Takeaways
 
 * DNS translates domain names into IP addresses.
