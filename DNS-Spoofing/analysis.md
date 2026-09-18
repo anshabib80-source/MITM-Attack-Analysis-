@@ -40,12 +40,13 @@ Unexpected DNS responses or unexpected changes in DNS resolution can be indicato
 A security analyst can investigate DNS traffic to identify abnormal responses and potential redirection.
 
 ---
-
 ## 6. Evidence
 
-The screenshots in this folder document the practical DNS analysis performed during the lab.
+### Evidence 1 — DNS Response Filter
 
----
+The following screenshot shows the use of the `dns.flags.response==1 && dns.qry.name==` filter during the traffic analysis.
+
+![Ethernet Source Filter](./DNS-Response Filter)
 
 ## 7. Key Takeaways
 
