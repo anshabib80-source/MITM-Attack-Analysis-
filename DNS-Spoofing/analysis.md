@@ -46,7 +46,7 @@ A security analyst can investigate DNS traffic to identify abnormal responses an
 
 The following screenshot shows the use of the `dns.flags.response==1 && dns.qry.name==` filter during the traffic analysis.
 
-![DNS Response Filter]\(./DNS-Response Filter.png)
+![DNS Response Filter]\(./DNS-Response%20Filter.png)
 
 ### Evidence 2 — DNS Spoofing Detection Filter
 
