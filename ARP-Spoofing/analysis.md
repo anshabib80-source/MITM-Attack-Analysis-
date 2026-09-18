@@ -57,9 +57,9 @@ The following screenshot shows the use of the `eth.src` filter during the traffi
 
 ![Ethernet Source Filter](./ARP-Spoofing.png)
 
-### Evidence 2 — arp.dublicate-address-detected
+### Evidence 2 — Dublicated-Address-Detected Filter
 
-The following screenshot shows the use of the `eth.src` filter during the traffic analysis.
+The following screenshot shows the use of the `arp.dublicate-address-detected` filter during the traffic analysis.
 
 ![Ethernet Source Filter](./Dublicated-Address-Detected.png)
 
