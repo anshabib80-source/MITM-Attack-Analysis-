@@ -6,6 +6,8 @@ This project documents my hands-on investigation of **Man-in-the-Middle (MITM)**
 
 The lab focused on analyzing how network communication can be intercepted or manipulated and how defenders can identify suspicious network activity.
 
+---
+
 ## 🎯 Topics Covered
 
 * ARP Spoofing
@@ -21,11 +23,11 @@ The lab focused on analyzing how network communication can be intercepted or man
 
 ARP Spoofing is a technique that can manipulate the relationship between IP addresses and MAC addresses on a local network.
 
-During the lab, I analyzed network traffic and examined Ethernet/ARP-related communication.
+During the lab, I analyzed network traffic and examined Ethernet and ARP-related communication.
 
 ### Evidence
 
-📁 [View ARP Spoofing Evidence](./ARP-Spoofing/)
+📁 [View ARP Spoofing Evidence](./ARP-Spoofing)
 
 ---
 
@@ -37,7 +39,7 @@ During the lab, I analyzed DNS requests and responses to understand how suspicio
 
 ### Evidence
 
-📁 [View DNS Spoofing Evidence](./DNS-Spoofing/)
+📁 [View DNS Spoofing Evidence](./DNS-Spoofing)
 
 ---
 
@@ -49,7 +51,7 @@ During the lab, I analyzed TLS/SSL-related traffic and explored the visibility o
 
 ### Evidence
 
-📁 [View TLS/SSL Evidence](./TLS-SSL/)
+📁 [View TLS/SSL Evidence](./TLS-SSL)
 
 ---
 
@@ -98,9 +100,11 @@ Through this lab, I strengthened my understanding of:
 
 The practical exercises were performed in a controlled **TryHackMe learning environment** for educational purposes.
 
+---
+
 ## ⚠️ Disclaimer
 
 This project is intended for educational purposes only.
 
-All practical activities were performed within a controlled lab environment.
+All practical activities were performed within a controlled lab environment. No unauthorized systems or real-world networks were targeted.
 
