@@ -38,7 +38,23 @@ However, certificate validation and proper TLS configuration are also important 
 
 ## 6. Evidence
 
-The screenshots in this folder document the TLS/SSL traffic analysis performed during the lab.
+### Evidence 1 — TLS Traffic
+
+The following screenshot shows TLS-related traffic observed during the controlled lab exercise.
+
+![TLS Traffic Analysis](./TLS-SSL.png)
+
+### Evidence 2 — Attacker transfer https into http
+
+The following screenshot shows encrypted network traffic observed during the analysis.
+
+![Encrypted Traffic](./SSL-Stripping.png)
+
+### Evidence 3 — The Proof of MITM Attack
+
+The following screenshot shows encrypted network traffic observed during the analysis.
+
+![Encrypted Traffic](./The-Final-Result.png)
 
 ---
 
