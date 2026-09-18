@@ -51,7 +51,17 @@ A security analyst can investigate unusual IP-to-MAC relationships and unexpecte
 
 ## 6. Evidence
 
-The screenshots in this folder document the practical analysis performed during the lab.
+### Evidence 1 — Ethernet Source Filter
+
+The following screenshot shows the use of the `eth.src` filter during the traffic analysis.
+
+![Ethernet Source Filter](./ARP-Spoofing.png)
+
+### Evidence 2 — arp.dublicate-address-detected
+
+The following screenshot shows the use of the `eth.src` filter during the traffic analysis.
+
+![Ethernet Source Filter](./Dublicated-Address-Detected.png)
 
 ---
 
